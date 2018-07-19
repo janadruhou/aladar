@@ -1,0 +1,2 @@
+# aladar
+Scrum IRC Bot
